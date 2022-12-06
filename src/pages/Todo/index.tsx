@@ -88,7 +88,7 @@ const Todo = () => {
 
   useEffect(() => {
     getTodoList();
-  }, []);
+  }, [getTodoList]);
 
   return (
     <TodoContainer>
