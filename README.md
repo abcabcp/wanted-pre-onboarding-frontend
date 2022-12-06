@@ -1,8 +1,9 @@
 # wanted-pre-onboarding-frontend
 ## 배포주소
+https://marvelous-pika-17ae8c.netlify.app/
 
 ## 실행하기
----
+
 - 클론 받기
   ```
   $ git clone https://github.com/abcabcp/wanted-pre-onboarding-frontend.git
@@ -14,7 +15,7 @@
   ```
 
 ## 폴더 구조
----
+
   ```jsx
   ├──	src	
   │	├── api
