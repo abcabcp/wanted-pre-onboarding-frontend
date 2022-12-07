@@ -66,7 +66,6 @@ const Login = () => {
     }
   };
 
-  console.log('modal', isModalOpen);
   return (
     <LoginContainer>
       <form className="text-center" onSubmit={onSubmit}>

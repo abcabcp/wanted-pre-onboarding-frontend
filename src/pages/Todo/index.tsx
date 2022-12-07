@@ -41,7 +41,6 @@ const Todo = () => {
   //create todo
   const onCreateTodo = async () => {
     await createTodo(inputValue).then((response: any) => {
-      console.log(response);
       getTodoList();
     });
   };
